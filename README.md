@@ -4,6 +4,9 @@
 
 The Pharmacy Management System is a simple web application built using Streamlit, designed to manage drugs, customers and orders efficiently. It allows users to add drugs, customers, and orders, and view the relevant information easily.
 
+## Live Demo
+[https://adityas-pharmacy-management-system.streamlit.app/](https://adityas-pharmacy-management-system.streamlit.app/)
+
 ## Demo
 
 [![Watch the demo](https://img.youtube.com/vi/O_Y2Y01gwwg/0.jpg)](https://youtu.be/O_Y2Y01gwwg)
